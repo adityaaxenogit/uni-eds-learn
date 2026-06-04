@@ -15,7 +15,9 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "dell-hero-block",
+      "dellhero-rewards"
     ]
   },
   {
@@ -37,6 +39,18 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "dell-hero-block",
+    "components": [
+      "dell-hero-slide"
+    ]
+  },
+  {
+    "id": "dellhero-rewards-filter",
+    "components": [
+      "dellhero-rewards"
     ]
   }
 ]
